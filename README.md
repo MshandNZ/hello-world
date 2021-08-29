@@ -1,2 +1,2 @@
 # hello-world
-Short description
+Write a little about yourself
